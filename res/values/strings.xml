@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">BuiltFilePicker</string>
+    <string name="show_picker">Show Picker</string>
+    <string name="path_">Path :</string>
+    <string name="size_">Size :</string>
+    <string name="file_name_">File Name :</string>
+
+</resources>
